@@ -12,7 +12,7 @@ public class abst2 extends testabstr{
 		System.out.println(c);
 		obj.t1();
 		
-		//comment
+		//commentmaster updated
 	}
 
 	@Override
