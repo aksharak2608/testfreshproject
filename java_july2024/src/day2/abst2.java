@@ -11,6 +11,8 @@ public class abst2 extends testabstr{
 		c=obj.sub(5, 3);
 		System.out.println(c);
 		obj.t1();
+		
+		//comment
 	}
 
 	@Override
